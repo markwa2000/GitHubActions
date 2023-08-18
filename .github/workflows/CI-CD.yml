@@ -2,9 +2,7 @@ name: Run tests
  
 on: [push]
 name: Run tests
- 
-on: [push]
- 
+
 jobs:
   tests:
     name: Run tests
